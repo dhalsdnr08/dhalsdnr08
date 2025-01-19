@@ -23,14 +23,17 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JSP-6DB33F.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringSecurity-47A248.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringMVC-25A162.svg?style=for-the-badge&logo=SpringMVC&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Maven-47A248.svg?style=for-the-badge&logo=Maven&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Gradle-47A248.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/JSP-6DB33F.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
