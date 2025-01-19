@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Maven-47A248.svg?style=for-the-badge&logo=Maven&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/Gradle-47A248.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Maven-cd20d6.svg?style=for-the-badge&logo=Maven&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -50,18 +50,11 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp
   
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
 
 <br>
 
