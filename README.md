@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/JSP-E34F26.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-1572B6.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JSP-6DB33F.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=SpringBoot&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SpringSecurity-20232a.svg?style=for-the-badge&logo=SpringSecurity&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/SpringMVC-20232a.svg?style=for-the-badge&logo=SpringMVC&logoColor=61DAFB" />&nbsp
 </div>
