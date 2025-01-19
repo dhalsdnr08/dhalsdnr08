@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringSecurity-20232a.svg?style=for-the-badge&logo=SpringSecurity&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/SpringMVC-20232a.svg?style=for-the-badge&logo=SpringMVC&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/SpringSecurity-47A248.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SpringMVC-25A162.svg?style=for-the-badge&logo=SpringMVC&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
